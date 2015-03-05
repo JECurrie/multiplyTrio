@@ -1,0 +1,2 @@
+# multiplyTrio
+a simple function. 
